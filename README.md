@@ -27,3 +27,6 @@ the list is empty the program will not ask for specifics and directly display th
 3. Better clinical decision making by integrating patient information from multiple sources.
 4. Improves patient and provider interaction and communication.
 5.Enabling safer, more reliable prescribing.
+
+# CONCLUSION:
+Our project enables the user to maintain records of the patient efficiently and make the process simple and easy ,especially in these tough times where there are huge intake and outgoing of patients ,mainting a record is a must.
